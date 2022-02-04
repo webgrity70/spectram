@@ -36,7 +36,7 @@
   .navbar-nav .menu-item.current-menu-item {
     color: #fda319;
   }
-  .navbar-nav .menu-item a {
+  .navbar-light .navbar-nav .nav-link {
     color: inherit;
     text-transform: uppercase;
   }
